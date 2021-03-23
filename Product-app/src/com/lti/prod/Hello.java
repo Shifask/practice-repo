@@ -4,6 +4,7 @@ public class Hello {
 	public static void main(String[] args) {
 		System.out.println("hi");
 		System.out.println("here new push by eclipse2");
+		System.out.println("here new push 2 by eclipse2");
 		
 	}
 		
